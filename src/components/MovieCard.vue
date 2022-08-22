@@ -28,7 +28,7 @@
 </template>
 
 <script>
-import LangFlag from 'vue-lang-code-flags';
+import LangFlag from 'vue-lang-code-flags'; 
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import { faStar as fasStar } from '@fortawesome/free-solid-svg-icons';
 import { faStar as farStar } from '@fortawesome/free-regular-svg-icons';

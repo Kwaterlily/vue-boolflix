@@ -14,8 +14,6 @@ import Header from './components/Header.vue';
 import Movies from './components/Movies.vue';
 import Series from './components/Series.vue';
 
-
-
 export default {
   name: 'App',
   components: {
@@ -26,7 +24,7 @@ export default {
   data(){
     return{
       searchMovie:"", 
-      api_key: '5f982b7a134b61a8191ea027b951c118'
+      api_key: '5d9663769947e4847cbf4363c075f1a8'
     }
   },
   methods:{
